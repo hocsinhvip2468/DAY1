@@ -1,0 +1,10 @@
+C:\Users\Quoc Bao\source\repos\THUCHANH1(WINDOWS)\bin\Debug\THUCHANH1(WINDOWS).exe.config
+C:\Users\Quoc Bao\source\repos\THUCHANH1(WINDOWS)\bin\Debug\THUCHANH1(WINDOWS).exe
+C:\Users\Quoc Bao\source\repos\THUCHANH1(WINDOWS)\bin\Debug\THUCHANH1(WINDOWS).pdb
+C:\Users\Quoc Bao\source\repos\THUCHANH1(WINDOWS)\obj\Debug\THUCHANH1(WINDOWS).csproj.AssemblyReference.cache
+C:\Users\Quoc Bao\source\repos\THUCHANH1(WINDOWS)\obj\Debug\THUCHANH1_WINDOWS_.Form1.resources
+C:\Users\Quoc Bao\source\repos\THUCHANH1(WINDOWS)\obj\Debug\THUCHANH1_WINDOWS_.Properties.Resources.resources
+C:\Users\Quoc Bao\source\repos\THUCHANH1(WINDOWS)\obj\Debug\THUCHANH1(WINDOWS).csproj.GenerateResource.cache
+C:\Users\Quoc Bao\source\repos\THUCHANH1(WINDOWS)\obj\Debug\THUCHANH1(WINDOWS).csproj.CoreCompileInputs.cache
+C:\Users\Quoc Bao\source\repos\THUCHANH1(WINDOWS)\obj\Debug\THUCHANH1(WINDOWS).exe
+C:\Users\Quoc Bao\source\repos\THUCHANH1(WINDOWS)\obj\Debug\THUCHANH1(WINDOWS).pdb

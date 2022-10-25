@@ -1,0 +1,7 @@
+C:\Users\Quoc Bao\source\repos\Bai2(s2)\bin\Debug\Bai2(s2).exe.config
+C:\Users\Quoc Bao\source\repos\Bai2(s2)\bin\Debug\Bai2(s2).exe
+C:\Users\Quoc Bao\source\repos\Bai2(s2)\bin\Debug\Bai2(s2).pdb
+C:\Users\Quoc Bao\source\repos\Bai2(s2)\obj\Debug\Bai2(s2).csproj.AssemblyReference.cache
+C:\Users\Quoc Bao\source\repos\Bai2(s2)\obj\Debug\Bai2(s2).csproj.CoreCompileInputs.cache
+C:\Users\Quoc Bao\source\repos\Bai2(s2)\obj\Debug\Bai2(s2).exe
+C:\Users\Quoc Bao\source\repos\Bai2(s2)\obj\Debug\Bai2(s2).pdb

@@ -1,0 +1,7 @@
+C:\Users\Quoc Bao\source\repos\THUCHANH1\bin\Debug\THUCHANH1.exe.config
+C:\Users\Quoc Bao\source\repos\THUCHANH1\bin\Debug\THUCHANH1.exe
+C:\Users\Quoc Bao\source\repos\THUCHANH1\bin\Debug\THUCHANH1.pdb
+C:\Users\Quoc Bao\source\repos\THUCHANH1\obj\Debug\THUCHANH1.csproj.AssemblyReference.cache
+C:\Users\Quoc Bao\source\repos\THUCHANH1\obj\Debug\THUCHANH1.csproj.CoreCompileInputs.cache
+C:\Users\Quoc Bao\source\repos\THUCHANH1\obj\Debug\THUCHANH1.exe
+C:\Users\Quoc Bao\source\repos\THUCHANH1\obj\Debug\THUCHANH1.pdb
